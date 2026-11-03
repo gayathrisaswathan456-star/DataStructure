@@ -78,7 +78,7 @@ int main()
            printf("Exit");
            break;
            default:
-             printf("Invalid choice");
+           printf("Invalid choice");
     }
    } while(ch != 4);
    return 0;
